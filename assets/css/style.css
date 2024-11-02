@@ -13,3 +13,10 @@ button {
     margin-top: 50px;
     justify-content: center;
 }
+p{
+    font-family: montserrat;
+    font-size: 30px;
+    color: red;
+    margin-top: 5px;
+    font-weight: 900;
+}
