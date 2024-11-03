@@ -9,7 +9,7 @@ button.addEventListener('click', function() {
             let far = (celcius * 9/5)+32;
 
             if(pmt3 >= 0){
-                // document.write(`${far}`);
+                document.write(`${far}`);
                 alert(`Fahrenhiet Value is ${far}`);
 
             }
